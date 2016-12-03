@@ -1,0 +1,1 @@
+Start app by running npm install and then npm start.  App opens on http://localhost:9966/ and refreshes when you change the file.  You can edit index.js and it automatically builds into bundle.js.
